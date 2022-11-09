@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning . . . 
+  - `C++` to write my own SCF programme (following the Crawford Tutorial as a help). 
+  - `Rust` as I like the syntax of the language. 
+- 🔭 I’m currently working on ...
+  - improving my own `Python` Scripts for convenience of computation and formatting. 
+
 <!--
 **MartinRJDagleish/MartinRJDagleish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
