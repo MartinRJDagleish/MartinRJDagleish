@@ -31,7 +31,7 @@
     </a> 
 </p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=martinrjdagleish&theme=python-dark" alt="martinrjdagleish" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=martinrjdagleish&theme=windows-dark" alt="martinrjdagleish" /></p>
 
 
 
