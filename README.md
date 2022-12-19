@@ -1,12 +1,16 @@
 <!-- source: https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hi 👋, I'm Martin </h1>
-<h3 align="center">A theoretical chemistry student with interest in Python, C++, Rust and LaTeX</h3>
+<h3 align="center">A theoretical, computational chemistry student with interest in Python, C++, Rust and LaTeX</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinrjdagleish&label=Profile%20views&color=0e75b6&style=flat" alt="martinrjdagleish" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martinrjdagleish&theme=juicyfresh" alt="martinrjdagleish" /></a> </p>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning . . . 
+  - `C++` to write my own SCF programme (following the Crawford Tutorial as a help). 
+  - `Rust` as I like the syntax of the language. 
+- 🔭 I’m currently working on ...
+  - improving my own `Python` Scripts for convenience of computation and formatting. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
