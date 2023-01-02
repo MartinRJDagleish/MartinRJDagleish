@@ -7,8 +7,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martinrjdagleish&theme=juicyfresh" alt="martinrjdagleish" /></a> </p>
 
 - 🌱 I’m currently learning . . . 
-  - `C++` to write my own SCF programme (following the Crawford Tutorial as a help). 
-  - `Rust` as I like the syntax of the language. 
+  - `Rust`:
+    - to write my own SCF programme (following the Crawford Tutorial as a help). 
+    - to build a basis for a new system language with memory safe character.
+  - `C++` as a more advanced systems language in comparison to `Python`.
 - 🔭 I’m currently working on ...
   - improving my own `Python` Scripts for convenience of computation and formatting. 
 
