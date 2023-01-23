@@ -1,6 +1,6 @@
 <!-- source: https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hi 👋, I'm Martin </h1>
-<h3 align="center">A theoretical, computational chemistry student with interest in Python, C++, Rust and LaTeX</h3>
+<h3 align="center">A theoretical, computational chemistry student with interest in Rust, Python, C++ and LaTeX</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinrjdagleish&label=Profile%20views&color=0e75b6&style=flat" alt="martinrjdagleish" /> </p>
 
@@ -8,11 +8,12 @@
 
 - 🌱 I’m currently learning . . . 
   - `Rust`:
-    - to write my own SCF programme (following the Crawford Tutorial as a help). 
-    - to build a basis for a new system language with memory safe character.
+    - to write my own HF-SCF programme from scratch. 
+    - to learn a modern language with safety, effiency and speed. 
   - `C++` as a more advanced systems language in comparison to `Python`.
 - 🔭 I’m currently working on ...
   - improving my own `Python` Scripts for convenience of computation and formatting. 
+  - my HF-SCF programme 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,6 +22,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+    <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> 
+    </a> 
     <a href="https://www.latex-project.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/TeXShop_icon.png" alt="latex" width="40" height="40"/> 
     </a> 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
@@ -36,8 +39,7 @@
     </a> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
     </a> 
-    <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> 
-    </a> 
+    
 </p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=martinrjdagleish&theme=windows-dark" alt="martinrjdagleish" /></p>
