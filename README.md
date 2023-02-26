@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning . . . 
   - `Rust`:
     - to write my own HF-SCF programme from scratch. 
-    - to learn a modern language with safety, effiency and speed. 
+    - to learn a modern language with safety, efficiency and speed. 
   - `C++` as a more advanced systems language in comparison to `Python`.
 - 🔭 I’m currently working on ...
   - improving my own `Python` Scripts for convenience of computation and formatting. 
