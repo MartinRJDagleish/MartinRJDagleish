@@ -1,6 +1,6 @@
 <!-- source: https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hi 👋, I'm Martin </h1>
-<h3 align="center">A theoretical, computational chemistry student with interest in Rust, Python, C++ and LaTeX</h3>
+<h3 align="center">A theoretical, computational chemistry student interested in Rust, Python, C++ and LaTeX</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinrjdagleish&label=Profile%20views&color=0e75b6&style=flat" alt="martinrjdagleish" /> </p>
 
@@ -13,7 +13,8 @@
   - `C++` as a more advanced systems language in comparison to `Python`.
 - 🔭 I’m currently working on ...
   - improving my own `Python` Scripts for convenience of computation and formatting. 
-  - my HF-SCF programme 
+  - my HF-SCF programme (Rust version)
+  - 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
