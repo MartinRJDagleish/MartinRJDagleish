@@ -7,14 +7,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martinrjdagleish&theme=juicyfresh" alt="martinrjdagleish" /></a> </p>
 
 - 🌱 I’m currently learning . . . 
+  - PHPC (Parallel and High Performance Computing) for scientific computation (utilizing `C/C++` with `OpenMP` and `MPI`)
   - `Rust`:
-    - to write my own HF-SCF programme from scratch. 
-    - to learn a modern language with safety, efficiency and speed. 
-  - `C++` as a more advanced systems language in comparison to `Python`.
+    - to write my own quantum chemistry programme from scratch (3rd times the charme...)
+    - for a safer and better development experience in comparison to `C++`
+  - `C++` as a 'low-level' high-performance computational language
+  - `TACO` for general tensor contraction and computation
 - 🔭 I’m currently working on ...
-  - improving my own `Python` Scripts for convenience of computation and formatting. 
-  - my HF-SCF programme (Rust version)
-  - 
+  - my progamming skills for various languages and applications
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
