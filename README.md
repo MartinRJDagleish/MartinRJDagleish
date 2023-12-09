@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning . . . 
   - PHPC (Parallel and High Performance Computing) for scientific computation (utilizing `C/C++` with `OpenMP` and `MPI`)
   - `Rust`:
-    - to write my own quantum chemistry programme from scratch (3rd times the charme...)
+    - to write my own quantum chemistry programme from scratch
     - for a safer and better development experience in comparison to `C++`
   - `C++` as a 'low-level' high-performance computational language
   - `TACO` for general tensor contraction and computation
