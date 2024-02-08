@@ -1,6 +1,6 @@
 <!-- source: https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hi 👋, I'm Martin </h1>
-<h3 align="center">A theoretical, computational chemistry student interested in Rust, Python, C++ and LaTeX</h3>
+<h3 align="center">A theoretical, computational chemistry student using Python, C++, Rust, (sometimes) MatLab and some C</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinrjdagleish&label=Profile%20views&color=0e75b6&style=flat" alt="martinrjdagleish" /> </p>
 
