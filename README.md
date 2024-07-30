@@ -12,7 +12,7 @@
     - to write my own quantum chemistry programme from scratch
     - for a safer and better development experience in comparison to `C++`
   - `C++` as a 'low-level' high-performance computational language
-  - `TACO` for general tensor contraction and computation
+  - `Torch` (C++ API to `PyTorch`) for general tensor contraction and computation
 - 🔭 I’m currently working on ...
   - my progamming skills for various languages and applications
 
