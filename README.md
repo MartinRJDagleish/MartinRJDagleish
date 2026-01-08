@@ -1,19 +1,15 @@
 <!-- source: https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hi 👋, I'm Martin </h1>
-<h3 align="center">A theoretical, computational chemistry student using Python, C++, Rust, (sometimes) MatLab and some C</h3>
+<h3 align="center">A theoretical, computational chemistry student using Python, C++, Rust, and some C</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinrjdagleish&label=Profile%20views&color=0e75b6&style=flat" alt="martinrjdagleish" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martinrjdagleish&theme=juicyfresh" alt="martinrjdagleish" /></a> </p>
 
-- 🌱 I’m currently learning . . . 
-  - PHPC (Parallel and High Performance Computing) for scientific computation (utilizing `C/C++` with `OpenMP` and `MPI`)
-  - `Rust`:
-    - to write my own quantum chemistry programme from scratch
-    - for a safer and better development experience in comparison to `C++`
-  - `C++` as a 'low-level' high-performance computational language
-  - `Torch` (C++ API to `PyTorch`) for general tensor contraction and computation
 - 🔭 I’m currently working on ...
+  - quantum chemistry algorithms in ther FermiONs++ programme package in the group of Prof. Ochsenfeld
+  - parallel and efficient implementations utilizing `C++` with `OpenMP`
+  - vibrationally resolved spectra in the time-dependent formulation
   - my progamming skills for various languages and applications
 
 <h3 align="left">Connect with me:</h3>
