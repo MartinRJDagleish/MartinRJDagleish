@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinrjdagleish&label=Profile%20views&color=0e75b6&style=flat" alt="martinrjdagleish" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martinrjdagleish&theme=juicyfresh" alt="martinrjdagleish" /></a> </p>
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=MartinRJDagleish)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 - 🔭 I’m currently working on ...
   - quantum chemistry algorithms in ther FermiONs++ programme package in the group of Prof. Ochsenfeld
