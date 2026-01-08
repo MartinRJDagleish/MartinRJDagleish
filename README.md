@@ -7,7 +7,7 @@
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=MartinRJDagleish)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 - 🔭 I’m currently working on ...
-  - quantum chemistry algorithms in ther FermiONs++ programme package in the group of Prof. Ochsenfeld
+  - quantum chemistry algorithms in the FermiONs++ programme package in the group of Prof. Ochsenfeld
   - parallel and efficient implementations utilizing `C++` with `OpenMP`
   - vibrationally resolved spectra in the time-dependent formulation
   - my progamming skills for various languages and applications
